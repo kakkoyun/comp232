@@ -1,0 +1,5 @@
+I have tried to debug my kruskal implementation but I couldn't succed to find my mistake.
+I have changed organization of my graph and use a generelized aprroach. Inorder to set a medium for all graph algorithms that I have implemented.
+I have change my implementation of auxiliry data structure set to disjoint set.
+I have tested my auxiliry data structure, it is wokring properly, this was my only suspicion.
+Instead I have implemeneted shortest path algorithms to practice.

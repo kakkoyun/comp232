@@ -1,0 +1,49 @@
+ -> node0001 -> node0000
+ -> node0002 -> node0000
+ -> node0003 -> node0001 -> node0000
+ -> node0004 -> node0002 -> node0000
+ -> node0005 -> node0003 -> node0001 -> node0000
+ -> node0006 -> node0003 -> node0001 -> node0000
+ -> node0007 -> node0000
+ -> node0008 -> node0002 -> node0000
+ -> node0009 -> node0004 -> node0002 -> node0000
+ -> node0010 -> node0008 -> node0002 -> node0000
+ -> node0011 -> node0001 -> node0000
+ -> node0012 -> node0010 -> node0008 -> node0002 -> node0000
+ -> node0013 -> node0003 -> node0001 -> node0000
+ -> node0014 -> node0002 -> node0000
+ -> node0015 -> node0007 -> node0000
+ -> node0016 -> node0008 -> node0002 -> node0000
+ -> node0017 -> node0013 -> node0003 -> node0001 -> node0000
+ -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0019 -> node0016 -> node0008 -> node0002 -> node0000
+ -> node0020 -> node0015 -> node0007 -> node0000
+ -> node0021 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0022 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0023 -> node0021 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0024 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0025 -> node0021 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0026 -> node0022 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0027 -> node0002 -> node0000
+ -> node0028 -> node0025 -> node0021 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0029 -> node0007 -> node0000
+ -> node0030 -> node0003 -> node0001 -> node0000
+ -> node0031 -> node0001 -> node0000
+ -> node0032 -> node0025 -> node0021 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0033 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0034 -> node0002 -> node0000
+ -> node0035 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0036 -> node0033 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0037 -> node0008 -> node0002 -> node0000
+ -> node0038 -> node0003 -> node0001 -> node0000
+ -> node0039 -> node0013 -> node0003 -> node0001 -> node0000
+ -> node0040 -> node0013 -> node0003 -> node0001 -> node0000
+ -> node0041 -> node0029 -> node0007 -> node0000
+ -> node0042 -> node0000
+ -> node0043 -> node0014 -> node0002 -> node0000
+ -> node0044 -> node0021 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0045 -> node0001 -> node0000
+ -> node0046 -> node0035 -> node0018 -> node0008 -> node0002 -> node0000
+ -> node0047 -> node0007 -> node0000
+ -> node0048 -> node0031 -> node0001 -> node0000
+ -> node0049 -> node0000
